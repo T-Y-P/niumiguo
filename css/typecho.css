@@ -1,0 +1,145 @@
+#demo{
+    overflow:hidden;
+    height:80px;
+    width:400px;
+    position:relative;
+   }
+   #demo1{
+    height:auto;
+    text-align:left;
+   }
+ 
+   #demo1 li{
+    list-style-type:none;
+    height:22px;
+    text-align:left;
+    text-indent:15px;
+   }
+   .header-v4 .top-main-content .nav {
+     padding-left: 200px !important ;
+ }
+
+ .pro_quota_tip{
+  overflow: hidden;
+  width: 100%;
+  height:50px;
+
+}
+.pro_quota_tip .tip_box{
+  position: relative;
+}
+.pro_quota_tip .tip_box a{
+   display: block;
+   overflow:hidden;
+
+}
+.tip_box a{
+  margin: 8px 0;
+  padding: 10px;
+  border-bottom: dotted 1px #a6a6a6;
+}
+/* 信息接口轮播图 */
+
+ .typecho{
+display: none;
+ }
+/* footer左边的 */
+.footer .contact {
+    width: 50%;
+}
+/* footer右边的 */
+.footer  .follow {
+    width: 35%;
+    float: right;
+    margin-top: -160px;
+}
+/*  暂时用了这个，如果你有什么好的方法可以联系邮箱 ax2019@vip.qq.com */
+
+.max-w110{
+    width: 100%;
+}
+/* 底部微信二维码设置为百分百 */
+
+
+ .follow{
+width: 30%;     
+}
+ h3{
+   z-index:10;
+ }
+ .module-title-content h1{
+   font-size: 45px !important;
+   opacity:0.5 !important;
+ }
+ /* 字体 */
+ .lixi-height{
+     height: 150px;
+ }
+ .module-full-screen-title > .module-title-content > i{
+   background-color: red !important;
+       width: 80px !important;
+     height: 3px !important;
+ }
+ /* 红色的横线，不懂看index前端 */
+ .jm-title {
+    font-size: 24px;
+    text-align: center;
+    padding: 16px;
+    color: #ffffff;
+  }
+  .dblogo{
+    float:right;
+    width: 200px;
+    border-right:1px solid #000000;
+  }
+  .jm-title-jk{
+  margin-top:30px;
+  }
+  .jm-title-dk{
+  padding-bottom:40px;
+  }
+  .jm-wap-title{
+    padding: 40px;
+  }
+  
+ .max-w100{
+   max-width: 100%;
+ 
+ }
+
+ @media screen and (max-width: 800px){
+   .dblogo{
+text-align: center;
+   border-right: 1px solid #ffffff;
+   display:none;
+}
+.typecho{
+display: block;
+     }
+   #a1portalSkin_footerAreaA .qhd-module{
+     display:none
+   }
+   /* 隐藏pc端的footer */
+ }
+ @media screen and (max-width: 540px){
+   .lixi-logo .column{
+   height: 240px;
+ }
+
+ .lixi-logo embed{
+  margin-top: 20px;
+ 
+ }
+ .lixi-height{
+     height:240px;
+ }
+ .max-w100{
+   max-width: 120%;
+   left: 45%;
+ }
+ .touch-logo embed{
+   width: 130px;
+   height: 45px;
+ }
+ 
+ }

@@ -1,0 +1,24 @@
+﻿@charset "utf-8";
+.categorys > a:hover, .categorys > .on {
+	color: #F26E5C !important;
+}
+#products .products-list .item .main .name {
+	color: #F26E5C !important;
+}
+#products .products-list .item .main .more {
+	background-color: #F26E5C !important;
+}
+#index-new-product .item .main-box .main .see-more:hover {
+	color: #F26E5C !important;
+	border-color: #F26E5C !important;
+}
+#index-brand .see-more:hover {
+	color: #F26E5C !important;
+	background-color: #F26E5C !important;
+}
+#news .news-list .item .main .title:hover {
+	color: #F26E5C !important;
+}
+#news .news-list .item .main .see-more:hover {
+	color: #F26E5C !important;
+}

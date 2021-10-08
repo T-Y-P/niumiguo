@@ -1,0 +1,108 @@
+#demo{
+    overflow:hidden;
+    height:80px;
+    width:400px;
+    position:relative;
+   }
+   #demo1{
+    height:auto;
+    text-align:left;
+   }
+ 
+   #demo1 li{
+    list-style-type:none;
+    height:22px;
+    text-align:left;
+    text-indent:15px;
+   }
+   .header-v4 .top-main-content .nav {
+     padding-left: 200px;
+ }
+ 
+ .qhd-content .column .col-4-1, .qhd-module .column .col-4-1 {
+     width: 22.75%;
+     margin-right: 1%;
+ }
+ .column .col-3-1 {
+ 
+ width: 31.3333%;
+ 
+ margin-right: 1%;
+ 
+ }
+ h3{
+   z-index:10;
+ }
+ .module-title-content h1{
+   font-size: 45px;
+   opacity:0.5;
+  
+ }
+ .lixi-height{
+     height: 150px;
+ }
+ .module-full-screen-title > .module-title-content > i{
+   background-color: red;
+       width: 80px;
+     height: 3px;
+ }
+ .jm-title {
+   font-size: 24px;
+     text-align: center;
+     padding: 16px;
+     color: #ffffff;
+ }
+ .dblogo{
+   float:right;
+   width: 200px;
+   border-right:1px solid #000000;
+ }
+ .jm-title-jk{
+ margin-top:30px;
+ }
+ .jm-title-dk{
+ padding-bottom:40px;
+ }
+ .jm-wap-title{
+   padding: 40px;
+ }
+ /* footer左边的 */
+ .footer .contact {
+     width: 50%;
+ }
+ /* footer右边的 */
+ .footer  .follow {
+     width: 35%;
+     float: right;
+     margin-top: -160px;
+ }
+ /*  暂时用了这个，如果你有什么好的方法可以联系邮箱 ax2019@vip.qq.com */
+ 
+ .max-w110{
+     width: 100%;
+ }
+ /* 底部微信二维码设置为百分百 */
+ 
+ 
+ @media screen and (max-width: 800px){
+   .dblogo{
+    text-align: center;
+   border-right: 1px solid #ffffff;
+   display:none}
+   .typecho{
+ display: block;
+      }
+ }
+ @media screen and (max-width: 540px){
+   .lixi-logo .column{
+   height: 240px;
+ }
+ .lixi-logo embed{
+  margin-top: 20px;
+ 
+ }
+ .lixi-height{
+     height:240px;
+ }
+ }
+ 

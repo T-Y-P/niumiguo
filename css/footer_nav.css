@@ -1,0 +1,7 @@
+﻿@charset "utf-8";
+#footer .footer-nav .navs .navs-item a {
+	color: #FFFFFF !important;
+}
+#footer .footer-nav .navs .navs-item a:hover {
+	color: #F26E5C !important;
+}

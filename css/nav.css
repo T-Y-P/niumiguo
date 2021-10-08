@@ -1,0 +1,16 @@
+﻿@charset "utf-8";
+#header #menu #nav .nav-item .item-a {
+	color: #777777 !important;
+}
+#header #menu #nav .nav-item .item-a.on, #header #menu #nav .nav-item:hover .item-a {
+	color: #F26E5C !important;
+}
+#header #menu #nav .nav-item .sub-nav .sub-item a {
+	color: #777777 !important;
+}
+#header #menu #nav .nav-item .sub-nav .sub-item a:hover {
+	color: #FFFFFF !important;
+}
+#header #menu #nav .nav-item .sub-nav .sub-item a:hover {
+	background-color: #F26E5C !important;
+}
